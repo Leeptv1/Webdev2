@@ -1,0 +1,72 @@
+@charset "utf-8";
+body { background: -webkit-linear-gradient(grey,white);
+}
+
+h1 { margin: 5px;
+padding: 10px;
+}
+
+
+#tiger { border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:left;
+		
+}
+#pig{ border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:left;
+}
+
+#donkey{
+	border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:left;
+}
+	
+#bird{ border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:right;
+}
+
+#torties{ border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:right;
+}
+
+#antalope{border:double;
+		width: 400px;
+		background-color: white;
+		height: 300px;
+		text-align:center;
+		font-family: lucida sans;
+		font-style:: italic;
+		float:right
+}
+
+
+	
