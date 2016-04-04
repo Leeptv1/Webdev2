@@ -1,0 +1,26 @@
+@charset "utf-8";
+body { background: -webkit-linear-gradient(grey,white);
+}
+#project { border:double;
+			float: left;
+			margin:5px;
+			padding: 10px;
+			text-align:center;
+			font-family: lucida sans;
+			font-style:italic;
+			background-color:black;
+			color: white;
+			width:500px;
+		
+}
+#final { border:double;
+			float: right;
+			margin:5px;
+			padding: 10px;
+			text-align:center;
+			font-family: lucida sans;
+			font-style:italic;
+			background-color:black;
+			color: white;
+			width:500px;
+}
