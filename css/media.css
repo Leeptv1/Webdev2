@@ -1,0 +1,55 @@
+@charset "utf-8";
+body { background: -webkit-linear-gradient(grey,white);
+}
+
+h1 { padding: 10px;}
+
+
+#candy h1{ font-family: lucida sans;
+			color:black;
+			font-style:italic;
+			text-align:center;
+			margin: 5px;
+			width: 100%;
+			padding: 10px;
+			border:double;
+			background-color: white;
+}
+#candy h3{  font-family: lucida sans;
+			color:black;
+			font-style:italic;
+			text-align:center;
+			margin: 5px;
+			border:double;
+			background-color: white;
+			width: 300px;
+}
+
+#candy p{ font-family: lucida sans;
+color:black;
+font-style:italic;
+text-shadow:#000000;
+text-align:center;
+background-color: white;
+clear:left;
+border:double;
+width: 100%;
+padding: 10px;
+margin: 5px;
+}
+
+
+
+#candy iframe {
+				clear: left;
+				border:double;
+				margin: 5px;
+				padding: 10px;
+				background-color: white;
+}
+
+
+
+
+
+

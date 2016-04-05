@@ -1,0 +1,58 @@
+@charset "utf-8";
+body { background: -webkit-linear-gradient(grey,white);
+}
+
+h1 { margin: 5px;
+padding: 10px;
+}
+
+
+#tiger { border:double;
+background-color: black;
+		text-align:center;
+		float:left;
+		
+}
+#pig{ border:double;
+		width: 50%px;
+		background-color: black;
+		height: 300px;
+		text-align:center;
+		float:right;
+}
+
+#donkey{
+	border:double;
+		width: 50%px;
+		background-color: black;
+		height: 300px;
+		text-align:center;
+		float:left;
+}
+	
+#bird{ border:double;
+		width: 50%px;
+		background-color: black;
+		height: 300px;
+		text-align:center;
+		float:right;
+}
+
+#torties{ border:double;
+		width: 50%px;
+		background-color: black;
+		height: 300px;
+		text-align:center;
+		float:right;
+}
+
+#antalope{border:double;
+		width: 50%px;
+		background-color: black;
+		height: 300px;
+		text-align:center;
+		float:right
+}
+
+
+	
